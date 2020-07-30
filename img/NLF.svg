@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="736" height="286" viewBox="0 0 736 286"><defs><style>.cls-1{font-size:391.959px;fill:#fff;font-family:HelveticaNeueCyr;font-weight:700}</style></defs><text id="NLF" class="cls-1" transform="translate(-26.789 285.696) scale(1.021)">NLF</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="736" height="286" viewBox="0 0 736 286">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 391.959px;
+        fill: #fff;
+        font-family: HelveticaNeueCyr;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="NLF" class="cls-1" transform="translate(-26.789 285.696) scale(1.021)">NLF</text>
+</svg>
